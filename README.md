@@ -1,4 +1,4 @@
-# NfQ-BoT
+# Zan-Botz
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
