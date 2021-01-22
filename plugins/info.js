@@ -6,9 +6,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Script: @Nurotomo
 ║
 ╠➥ Github: https://github.com/Arya274/Arya-Bot
-╠➥ Instagram: @arpunchs
-╠➥ YouTube: Drawl Nag
-║
+╠➥ Instagram: @zanganzz_
+╠➥ YouTube: Zan gaming
 ╠═〘 Thanks To 〙 ═
 ╠➥ Nurotomo
 ╠➥ MfarelS
@@ -16,13 +15,11 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Dan kawan yang lain :)
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ SmartFren: 0882-3543-5804
-╠➥ Tsel: 0813-5730-2007
-╠➥ Tsel: 0815-1586-0089
+╠➥ Tsel: 085340827717
 ║
-║>Request? Wa.me/6288235435804
+║>Request? Wa.me/6285340827717
 ║
-╠═〘 NfQ BOT 〙 ═
+╠═〘 Zan botz 〙 ═
 `.trim(), m)
 }
 handler.command = /^(info)$/i
