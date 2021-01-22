@@ -32,8 +32,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖 [NFQ BOT] 🤖
-Created Bye: @Drawl Nag
+🤖 [Zan Botz] 🤖
+Created Bye: @zanganzz_
 
 Hi, ${name} 👋
 Exp: ${exp}
@@ -119,7 +119,7 @@ ${more.repeat(1000)}
 ║ Advanced:
 ║  > return m
 ║
-╠═〘 NfQ BOT 〙═
+╠═〘 Zan botz 〙═
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
