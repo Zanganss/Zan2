@@ -108,13 +108,13 @@ ${more.repeat(1000)}
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 IKLAN 〙 ═
-╠➥ Instagram: @arpunchs
-╠➥ Github: https://github.com/Arya274/Arya-Bot
+╠➥ Instagram: @zanganzz_
+╠➥ Github: https://github.com/Zanganss/Zan2
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : NFQ BOT
+╠➥ Name : Zan botz
 ╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/6288235435804
+╠➥ Request? Wa.me/6285340827717
 ╠═════
 ║ Advanced:
 ║  > return m
